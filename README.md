@@ -24,11 +24,7 @@ Finally, I always remind my self with these ***quotes*** to keep my self in a gr
 
 -It takes courage to grow up and become who you really are.
 
-And you can check out this [link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) to read more about that topic.
-
-
-
-eedit ver...
+And you can check out this [link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) to read more abou
 
 ###**About my self**
 
