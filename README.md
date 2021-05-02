@@ -27,6 +27,9 @@ Finally, I always remind my self with these ***quotes*** to keep my self in a gr
 And you can check out this [link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) to read more about that topic.
 
 
+abouy the links...
+
+
 
 ###**About my self**
 
