@@ -14,7 +14,7 @@ As well as, how each of them deals with obstacles and how growth mindsets persis
 In addition to, when we talk about efforts the growth mindsets never give up and always use the role of no pain-no gain, while fixed mindset views as fruitless. Although growth mindsets always learn from criticisms, on the other hand, fixed mindsets ignore them.
 Also when we talk about how each one of them looks at the success of others, the growth mindsets are inspired by them and then achieve more and higher goals, but fixed mindsets view as a threat and definitely fail to reach full potential. 
 
-Finally, I always remind my self with these ***quotes*** to keep my self in a growth mindset 
+Finally, I always remind my self with these ***quotes*** to keep my self in a growth mindset:
 
 -Great works are performed, not by strength, but by perseverance.
 
@@ -25,6 +25,8 @@ Finally, I always remind my self with these ***quotes*** to keep my self in a gr
 -It takes courage to grow up and become who you really are.
 
 And you can check out this [link](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) to read more about that topic.
+
+about ;inles..
 
 
 ###**About my self**
