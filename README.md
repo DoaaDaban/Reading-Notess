@@ -13,6 +13,7 @@
 | :------------- | :----------: |
 |  Read01 | [link](Read01.md)   |
 | Read02 | [link](Read02.md)|
+|lab1 | [link](lab01.md)|
 
 
 
