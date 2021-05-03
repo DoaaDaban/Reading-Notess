@@ -5,11 +5,11 @@
 
 ### aspects of version control:
 
-** -Local Version Control**
+** -Local Version Control **
 
-** -Centralized Version Control**
+** -Centralized Version Control **
 
-** -Distributed Version Control**
+** -Distributed Version Control **
 
 ### Using of Git: 
 
