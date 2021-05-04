@@ -1,7 +1,7 @@
-##Mastering MarkDown
+## Mastering MarkDown
 
 
-**Markdown** is a lightweight and easy to use syntax for styling all forms of writing on GitHub platforms and its a way to style text on web.
+** Markdown ** is a lightweight and easy to use syntax for styling all forms of writing on GitHub platforms and its a way to style text on web.
 
 we can use markdown most places around github:
 
