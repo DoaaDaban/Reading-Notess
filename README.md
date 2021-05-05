@@ -15,6 +15,9 @@
 |  lab1     |  [link](lab01.md) |
 |  CSS      |  [link](CSS.md)   |
 |  html     |  [link](html.md)  |
+<<<<<<< HEAD
 |  Read04   |  [link](Read04.md)|
+=======
+>>>>>>> dc38f43914a16cfd848548622a90e3811e73f6bf
 
 
