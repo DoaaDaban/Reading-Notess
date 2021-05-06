@@ -2,9 +2,9 @@ The concept of a **Growth mindset** is to develop your mind and your skills thro
 
 There are two types of mindset
 
-**1-Growth Mindset**
+**1- Growth Mindset**
 
-**2-Fixed Mindset**
+**2- Fixed Mindset**
 
 The differences between **Growth mindset** and **Fixed mindset** are the challenges they meet and how each of them reacts with, you can simply see the growth mindsets embrace the challenges, while fixed mindsets avoid them. 
 As well as, how each of them deals with obstacles and how growth mindsets persist, while, fixed mindsets lose focus and give up.

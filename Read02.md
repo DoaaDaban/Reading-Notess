@@ -1,46 +1,36 @@
 # ** Git Tutorial ** #
 
-<<<<<<< HEAD
-=======
-# ** Git Tutorial ** #
 
->>>>>>> 824db6c7df199fadb98f36e9736f084f4af6d7b7
 ## Git is a (VCS) Version Control system.
 
 ### aspects of version control:
 
-<<<<<<< HEAD
-** -Local Version Control**
 
-** -Centralized Version Control**
+** - Local Version Control**
 
-** -Distributed Version Control**
-=======
-   -Local Version Control
+** - Centralized Version Control**
 
-  -Centralized Version Control 
+** - Distributed Version Control**
 
-  -Distributed Version Control 
->>>>>>> 824db6c7df199fadb98f36e9736f084f4af6d7b7
-
+  
 ### Using of Git: 
 
--Snapshots
+- Snapshots
 
--Local Operations
+- Local Operations
 
--Tracking Changes
+- Tracking Changes
 
--Loss of Data
+- Loss of Data
 
--States
+- States
 
 ### files on Git:
 
--Committed
+- Committed
 
--Modified
+- Modified
 
--Staged
+- Staged
 
 for more info clik the [link](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
