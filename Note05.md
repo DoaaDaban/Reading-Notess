@@ -1,6 +1,6 @@
 
 
-#From the Duckett HTML book:
+# From the Duckett HTML book:
 
 ## Chapter 5: “Images” (pp.94-125)
 
