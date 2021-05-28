@@ -18,7 +18,6 @@ There are many common answers to this question:
 * Making software maintainable
 * The list goes on and on.
 
-
 ## Why problem domains are hard
 
 Have you ever tried to put together a jigsaw puzzle that didn’t have any picture on it?  How about one like this one, that has a very similar pattern repeated on it and is double-sided?
