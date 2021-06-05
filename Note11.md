@@ -234,3 +234,129 @@ local computer to your web server.
 * Many companies provide platforms for blogging, email
 newsletters, e-commerce and other popular website
 tools (to save you writing them from scratch
+
+<hr>
+
+from [This MDN article on audio and video elements](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
+
+
+## Video and Audio APIs
+HTML5 comes with elements for embedding rich media in documents —``` <video> ```and ``` <audio>``` — which in turn come with their own APIs for controlling playback, seeking, etc. This article shows you how to do common tasks such as creating custom playback controls.
+
+Prerequisites:	JavaScript basics (see first steps, building blocks, JavaScript objects), the basics of Client-side APIs
+
+Objective:	To learn how to use browser APIs to control video and audio playback.
+
+HTML5 video and audio
+
+The ```<video>``` and ```<audio>``` elements allow us to embed video and audio into web pages. As we showed in Video and audio content, a typical implementation looks like this:
+
+```HTML
+<video controls>
+  <source src="rabbit320.mp4" type="video/mp4">
+  <source src="rabbit320.webm" type="video/webm">
+  <p>Your browser doesn't support HTML5 video. Here is a <a href="rabbit320.mp4">link to the video</a> instead.</p>
+</video>
+```
+This creates a video player inside the browser.
+
+### The HTMLMediaElement API
+
+Part of the HTML5 spec, the [HTMLMediaElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement) API provides features to allow you to control video and audio players programmatically — for example [HTMLMediaElement.play()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/play), [HTMLMediaElement.pause()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/pause), etc. This interface is available to both ``` <audio>``` and ``` <video>``` elements, as the features you'll want to implement are nearly identical. Let's go through an example, adding features as we go.
+
+
+<hr>
+
+## Chapter 9: pages 201-206 only. Flash is no longer supported by many browsers but is an important part of history.
+
+* How to add Flash movies into your site
+* How to add video and audio to your site
+* HTML5 ```<video>``` and ```<audio>``` elements
+
+Flash is a very popular technology used
+to add animations, video, and audio to
+websites. This chapter begins by looking
+at how to use it in your web pages.
+We then focus on how to add video and audio to your site,
+using either the new HTML5 ```<video>``` and ```<audio>``` elements
+or a hosted service (such as YouTube or SoundCloud). In this
+chapter you will learn:
+
+●● How to use Flash in your web pages
+
+●● How to use HTML5 ``` <video>``` and ```<audio>``` elements
+
+●● When to host your own video and audio and when to use a
+service such as YouTube
+
+![Timeline:
+Flash, VidEo & Audio](https://aleen42.gitbooks.io/wiki/content/Programming/HTML/flash_video_audio/timeline.png)
+
+### Adding a Flash Movie to Your Web Page
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Adding a Flash Movie</title>
+<script type="text/javascript"
+src="http://ajax.googleapis.com/ajax/libs/
+swfobject/2.2/swfobject.js"></script>
+<script type="text/javascript">
+swfobject.embedSWF("flash/bird.swf",
+"bird", "400", "300", "8.0.0");</script>
+</head>
+<body>
+<div id="bird"><p>An animation of a bird taking
+a shower</p></div>
+</body>
+</html>
+
+```
+
+
+
+### Example flash & AUdio & video 
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Flash, Video and Audio</title>
+<script type="text/javascript"
+src="http://ajax.googleapis.com/ajax/libs/
+swfobject/2.2/swfobject.js"></script>
+<script type="text/javascript">
+var flashvars = {};
+var params = {movie: "../video/puppy.flv"};
+swfobject.embedSWF("flash/osplayer.swf", "snow",
+"400", "320", "8.0.0", flashvars, params);</script>
+</head>
+<body>
+<video poster="images/puppy.jpg" width="400"
+height="320" controls="controls">
+<source src="video/puppy.mp4" type='video/mp4;
+codecs="avc1.42E01E, mp4a.40.2"' />
+<source src="video/puppy.webm" type='video/webm;
+codecs="vp8, vorbis"' />
+<div id="snow">
+<p>You cannot see this video of a puppy playing
+in the snow because this browser does not
+support our video formats.</p>
+</div>
+</video>
+</body>
+</html>
+```
+
+### summary
+* Flash allows you to add animations, video and audio to
+the web.
+* Flash is not supported on iPhone or iPad.
+* HTML5 introduces new ```<video>``` and ```<audio>```
+elements for adding video and audio to web pages, but
+these are only supported in the latest browsers.
+* Browsers that support the HTML5 elements do not
+all support the same video and audio formats, so you
+need to supply your files in different formats to ensure
+that everyone can see/hear them
