@@ -16,38 +16,38 @@
 
 # Code 102 Reading Notes
 
-|   Read    |     link           |
-|:---------:| :----------------: |
-|  Read01   |  [link](Read01.md) |
-|  Read02   |  [link](Read02.md) |
-|  lab1     |  [link](lab01.md)  |
-|  CSS      |  [link](CSS.md)    |
-|  html     |  [link](html.md)   |
-|  Read04   |  [link](Read04.md) |
-|  Read05   |  [link](Read05.md) |
-|  Read06   |  [link](Read06.md) |
+|   Read    |     link               |
+|:---------:| :----------------:     |
+|  Read01   |  [link](102/Read01.md) |
+|  Read02   |  [link](102/Read02.md) |
+|  lab1     |  [link](102/lab01.md)  |
+|  CSS      |  [link](102/CSS.md)    |
+|  html     |  [link](102/html.md)   |
+|  Read04   |  [link](102/Read04.md) |
+|  Read05   |  [link](102/Read05.md) |
+|  Read06   |  [link](102/Read06.md) |
 
 
 
 # Code 201 Reading Notes
 
-|   Read    |     link           |
-|:---------:| :----------------: |
-|  Note01   |  [link](Note01.md) |
-|  Note02   |  [link](Note02.md) |
-|  Note03   |  [link](Note03.md) |
-|  Note04   |  [link](Note04.md) |
-|  Note05   |  [link](Note05.md) |
-|  Note06   |  [link](Note06.md) |
-|  Note07   |  [link](Note07.md) |
-|  Note08   |  [link](Note08.md) |
-|  Note09   |  [link](Note09.md) |
-|  Note10   |  [link](Note10.md) |
-|  Note11   |  [link](Note11.md) |
-|  Note12   |  [link](Note12.md) |
-|  Note13   |  [link](Note13.md) |
-|  Note14   |  [link](Note14.md) |
-|  Note15   |  [link](Note15.md) |
+|   Read    |     link               |
+|:---------:| :----------------:     |
+|  Note01   |  [link](201/Note01.md) |
+|  Note02   |  [link](201/Note02.md) |
+|  Note03   |  [link](201/Note03.md) |
+|  Note04   |  [link](201/Note04.md) |
+|  Note05   |  [link](201/Note05.md) |
+|  Note06   |  [link](201/Note06.md) |
+|  Note07   |  [link](201/Note07.md) |
+|  Note08   |  [link](201/Note08.md) |
+|  Note09   |  [link](201/Note09.md) |
+|  Note10   |  [link](201/Note10.md) |
+|  Note11   |  [link](201/Note11.md) |
+|  Note12   |  [link](201/Note12.md) |
+|  Note13   |  [link](201/Note13.md) |
+|  Note14   |  [link](201/Note14.md) |
+|  Note15   |  [link](201/Note15.md) |
 
 
 
@@ -55,6 +55,6 @@
 
 # Code 301 Reading Notes
 
-|   Read    |     link           |
-|:---------:| :----------------: |
-|  class01  | [link](class01.md) |
+|   Read    |     link               |
+|:---------:| :----------------:     |
+|  class01  | [link](301/class01.md) |
