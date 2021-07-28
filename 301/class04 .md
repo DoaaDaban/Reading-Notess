@@ -39,6 +39,6 @@ x === y ? console.log(true) : console.log(false);
 
 ```
 
- # [React Bootstrap - Forms]()
+ # [React Bootstrap - Forms](https://react-bootstrap.github.io/components/forms/)
 
-# [React Docs - conditional rendering]()
+# [React Docs - conditional rendering](https://reactjs.org/docs/conditional-rendering.html)
