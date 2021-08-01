@@ -62,3 +62,4 @@
 |  class03  | [link](301/class03.md) |
 |  class04  | [link](301/class04.md) |
 |  class05  | [link](301/class05.md) |
+|  class06  | [link](301/class06.md) |
