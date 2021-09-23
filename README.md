@@ -1,9 +1,9 @@
 # Reading-Notess
 
+### **About this website**
 
-### **About my self**
+* this web site includes all reading material for Code 102 - Intro to Software Development, Code 201 - Foundations of Software Development, Code 301 - Intermediate Software Development and Code 401 - Advanced Software Development.
 
-***I'm Doaa Daban, I'm a computer engineer, graduated from the University of Jordan, and I'm here to follow my passion and develop my skills in programming and become a web developer.***   
 
 # Table of contents
 
@@ -69,7 +69,7 @@
 |  class13  | [link](301/class13.md) |
 
 
-# Code 401 Reading Notes
+# Code 401 Reading Notes- Java
 
 |   Read     |          link           |
 |:---------: | :--------------------:  |
