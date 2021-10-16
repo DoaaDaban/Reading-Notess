@@ -88,3 +88,8 @@
 |  Notes13   |  [link](401/Notes13.md) |
 |  Notes14   |  [link](401/Notes14.md) |
 |  Notes15   |  [link](401/Notes15.md) |
+|  Notes16   |  [link](401/Notes16.md) |
+|  Notes17   |  [link](401/Notes17.md) |
+|  Notes18   |  [link](401/Notes18.md) |
+|  Notes19   |  [link](401/Notes19.md) |
+|  Notes20   |  [link](401/Notes20.md) |
