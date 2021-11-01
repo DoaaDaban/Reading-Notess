@@ -93,4 +93,6 @@
 |  Notes18   |  [link](401/Notes18.md) |
 |  Notes19   |  [link](401/Notes19.md) |
 |  Notes26   |  [link](401/Notes26.md) |
+|  Notes27   |  [link](401/Notes27.md) |
+|  Notes28   |  [link](401/Notes28.md) |
 
