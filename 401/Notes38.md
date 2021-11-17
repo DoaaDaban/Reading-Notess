@@ -25,3 +25,4 @@ SNS uses the publish/subscribe model for push delivery of messages. Recipients s
 3. Filter by topic policy to receive subsets of message topics.
 
 4. Support for AWS PrivateLink endpoint into Amazon VPC.
+
