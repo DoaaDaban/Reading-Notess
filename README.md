@@ -108,4 +108,5 @@
 |  Notes39   |  [link](401/Notes39.md) |
 |  Notes41   |  [link](401/Notes41.md) |
 |  Notes42   |  [link](401/Notes42.md) |
+|  Notes42b  |  [link](401/Notes42b.md)|
 
