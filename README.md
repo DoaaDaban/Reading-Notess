@@ -106,4 +106,6 @@
 |  Notes37   |  [link](401/Notes37.md) |
 |  Notes38   |  [link](401/Notes38.md) |
 |  Notes39   |  [link](401/Notes39.md) |
+|  Notes41   |  [link](401/Notes41.md) |
+|  Notes42   |  [link](401/Notes42.md) |
 
