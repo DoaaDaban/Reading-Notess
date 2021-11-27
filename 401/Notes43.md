@@ -1,4 +1,4 @@
-# Read: Class 43 Read: 43 - Kinesis & Analytics
+# Read: 43 - Kinesis & Analytics
 
 ## [Amplify and Kinesis](https://docs.amplify.aws/lib/analytics/getting-started/q/platform/android/)
 
